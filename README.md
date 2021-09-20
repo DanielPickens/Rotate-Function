@@ -1,5 +1,5 @@
 # Rotate-Function
-my clean JavaScript solution that is faster than 94% of solutions on Leetcode. 
+My clean JavaScript solution that is faster than 94% of solutions on Leetcode. 
 The challenge: 
 
 
